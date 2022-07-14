@@ -1,5 +1,4 @@
-Arquivo relacionado ao curso de desenvolvedor WEB do Programador BR. 
-Desafio Módulo 2 - HTML básico
+Desafio HTML Básico - Curso Programador BR - Desenvolvedor WEB Full Stack
 
 Implementação pessoal:
 - Logotipo da Aba.
